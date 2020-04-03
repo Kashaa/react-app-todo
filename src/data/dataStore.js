@@ -27,41 +27,43 @@ export const listData = {
       cards: [
         {
           key: 0,
-          title: 'This Is Going to Hurt',
+          title: 'The Brothers Karamazov',
         },
         {
           key: 1,
-          title: 'Interpreter of Maladies',
+          title: 'Introduction to React',
         },
+        
       ],
     },
     {
       key: 1,
-      title: 'Movies',
-      icon: 'film',
+      title: 'Journeys',
+      icon: 'tree',
       cards: [
         {
           key: 0,
-          title: 'Harry Potter',
+          title: 'Tibet',
         },
         {
           key: 1,
-          title: 'Star Wars',
+          title: 'Amazon Rainforest',
         },
+
       ],
     },
     {
       key: 2,
-      title: 'Games',
-      icon: 'gamepad',
+      title: 'Events',
+      icon: 'film',
       cards: [
         {
           key: 0,
-          title: 'The Witcher',
+          title: 'Cooking course',
         },
         {
           key: 1,
-          title: 'Skyrim',
+          title: 'Pearl Jam concert',
         },
       ],
     },

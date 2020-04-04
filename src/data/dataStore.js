@@ -28,7 +28,7 @@ export const pageContents = {
 export const listData = {
   title: 'Things to do <sup>soon!</sup>',
   description: 'Interesting things I want to check out!',
-  image: 'http://uploads.kodilla.com/bootcamp/fer/11.react/space.png',
+  image: 'https://i.postimg.cc/rscQb08g/red-field-summer-agriculture-70741.jpg',
   columns: [
     {
       key: 0,
@@ -83,19 +83,19 @@ const lists = [
     id: 'list-1',
     title: 'Things to do <sup>soon!</sup>',
     description: 'Interesting things I want to check out!',
-    image: 'http://uploads.kodilla.com/bootcamp/fer/11.react/space.png',
+    image: 'https://i.postimg.cc/d19dvpHY/beach-calm-clouds-coast-457881.jpg',
   },
   {
     id: 'list-2',
     title: 'Things to do later',
     description: 'Interesting things to do later',
-    image: 'http://uploads.kodilla.com/bootcamp/fer/11.react/space.png',
+    image: 'https://i.postimg.cc/FF24Fcmz/bloom-blooming-blossom-blur-462118.jpg',
   },
   {
     id: 'list-3',
     title: 'Experimental list',
     description: 'Interesting ideas',
-    image: 'http://uploads.kodilla.com/bootcamp/fer/11.react/space.png',
+    image: 'https://i.postimg.cc/SKdj0jbV/1-nature-flowers-garden-plant-67857.jpg',
   },
 ];
 

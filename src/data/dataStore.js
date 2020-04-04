@@ -93,8 +93,8 @@ const lists = [
   },
   {
     id: 'list-3',
-    title: 'Experimental list',
-    description: 'Interesting ideas',
+    title: 'Distant plans',
+    description: 'Interesting ideas and plans',
     image: 'https://i.postimg.cc/SKdj0jbV/1-nature-flowers-garden-plant-67857.jpg',
   },
 ];

@@ -1,9 +1,10 @@
 import React from 'react';
-import {NavLink, Link} from 'react-router-dom';
+
 import styles from './Header.scss';
+import {NavLink, Link} from 'react-router-dom';
 import Container from '../Container/Container.js';
 import Icon from '../Icon/Icon.js';
-import Search from '../Search/SearchContainer';
+import Search from '../Search/SearchContainer.js';
 
 class Header extends React.Component {
 
